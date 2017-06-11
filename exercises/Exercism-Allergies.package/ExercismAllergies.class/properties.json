@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Exercism-Allergies",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Allergens"
+	],
+	"instvars" : [
+		"score"
+	],
+	"name" : "ExercismAllergies",
+	"type" : "normal"
+}
