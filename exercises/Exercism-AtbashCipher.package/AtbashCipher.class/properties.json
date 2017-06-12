@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SubstitutionCipher",
+	"category" : "Exercism-AtbashCipher",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AtbashCipher",
+	"type" : "normal"
+}
